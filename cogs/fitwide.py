@@ -351,7 +351,7 @@ class FitWide(commands.Cog):
         filepath = "assets/tmp.png"
         text = ' '.join(args)
 
-        W, H = (1100, 186)
+        W, H = (799, 186)
 
         bg = (0, 0, 0, 0)
         fg = (229, 0, 43)
